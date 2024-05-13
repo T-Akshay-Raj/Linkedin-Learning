@@ -19,3 +19,4 @@
 - CertificateOfCompletion_Spring Boot TestDriven Development
 - CertificateOfCompletion_Spring Boot Observability Deep Dive into Logging Metrics and Tracing
 - CertificateOfCompletion_Advanced Java Handson with Streams Lambda Expressions Collections Generics and More
+- CertificateOfCompletion_Introduction to Docker for Java Developers
