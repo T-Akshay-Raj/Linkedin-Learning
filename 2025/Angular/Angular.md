@@ -250,5 +250,3 @@ npm help npm       more involved overview
 ## Deploy to github pages
 - Install github pages using cli
     - ng install -g @angular-cli-ghubpages
-
-
